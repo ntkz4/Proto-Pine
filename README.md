@@ -20,9 +20,10 @@ prototype of a game i tried to code using what i learned from various sources; b
 
 ## *For this project, what engine are you using? And can you explain in details why you chose it?*
 - for this project, i chosed LOVE2D as the engine, instead of Gamemaker, Godot, Roblox Studio, and even Scratch
+- the game i got inspired off, intravenous, uses LOVE2D as their engine
 - my reasoning for choosing LOVE2D as the engine for my game is that because, just like some popular game and the game that i got inspired of, uses Lua
 - for me, lua is not **HARD** to understand, but outside of that, in Univeristy life, i rarely get to use it. these days, my programming class in Uni uses python
-- furthermore, using LOVE2D means that i can create my own games from scratch. for most game engines, like gamemakers, and godot, i have to figure out which is which, and that can get pretty confusing and frustrating
+- furthermore, using LOVE2D means that i can create my own games from scratch. for most game engines, like gamemakers, and godot, i have to figure out their ui and which is which, and that can get pretty confusing and frustrating
   
 ## *What are your goals then? (In life, and for your project.)*
 - my goal in life is to make something like a program or product that will leave my legacy behind
