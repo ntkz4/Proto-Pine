@@ -5,7 +5,7 @@ prototype of a game i tried to code using what i learned from various sources; b
 
 - the game that im making is called VOID//. original, i know but it does sound cool and niche
 
-## &Why are you doing this?*
+## *Why are you doing this?*
 - with the world nowadays having a heavy reliance on the internet, and the usage of ai is overwhelmed, even in work and school, i thought
 
 > *"hey? why dont i just learn to benefit from them, instead of just using ai to get my work done?"* 
