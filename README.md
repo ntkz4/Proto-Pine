@@ -30,4 +30,4 @@ prototype of a game i tried to code using what i learned from various sources; b
   # **ill try to achieve high grades, socialize, and try to learn from my mistakes, even if it means getting out of my shell**
 - my goal for this project is to become popular, hoping that one day it can be served as a memory, and a good, honest portfolio
 
-# thats all from me, thank you! made with love, chatgpt, and dedication
+# thats all from me, thank you! made with love, robots, and dedication
